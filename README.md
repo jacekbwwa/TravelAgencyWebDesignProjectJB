@@ -6,20 +6,12 @@ https://jacekbwwa.github.io/TravelAgencyWebDesignProjectJB/
 
 ## Description
 The project is split to 5 pages:
--index.html . The home  web page describes and shows pictures, slide pictues and movie of Tatra Mountains, 
-travel and sport activities in this area.
-The movie player interface, slide images and colur letters feature  programmed  in Javascript, and designed in CSS/HTML.
--packages.html. The tours web page describes  and shows pictures of Tatra Mountains, Zakopane city, Tatra National Park, Mount Giewont, Morskie Oko Lake, 
-Caves in Tatra Mountains, Mount Kasprowy, and winter activities in this area. 
-The movie player interface, and colur letters feature  programmed  in Javascript, and designed in CSS/HTML.
--map.html. The  map web page  shows map of  Zakopane city, and movie  of Tatra Mountains. 
-The movie player interface  programmed  in Javascript, and designed in CSS/HTML.
-Special animation programmed in Javascript shows travelling backpacker.
--book.html. The booking registration form web page, designed to enter customer 's data and book place  in Travel Agency tour. 
-The entry form programmed in jQuery.
+-index.html . The home  web page describes and shows pictures, slide pictues and movie of Tatra Mountains, travel and sport activities in this area. The movie player interface, slide images and colur letters feature  programmed  in Javascript, and designed in CSS/HTML.
+-packages.html. The tours web page describes  and shows pictures of Tatra Mountains, Zakopane city, Tatra National Park, Mount Giewont, Morskie Oko Lake, Caves in Tatra Mountains, Mount Kasprowy, and winter activities in this area. The movie player interface, and colur letters feature  programmed  in Javascript, and designed in CSS/HTML.
+-map.html. The  map web page  shows map of  Zakopane city, and movie  of Tatra Mountains. The movie player interface  programmed  in Javascript, and designed in CSS/HTML.Special animation programmed in Javascript shows travelling backpacker.
+-book.html. The booking registration form web page, designed to enter customer 's data and book place  in Travel Agency tour. The entry form programmed in jQuery.
 -registration.html. The confirmation of registration web page.
-In all web pages special graphic design of buttons and views.
-All web pages designed in grids layout with Responsive Web Design, adapted to PC/mobile browsers.
+-In all web pages special graphic design of buttons and views. All web pages designed in grids layout with Responsive Web Design, adapted to PC/mobile browsers.
 
 ![Screenshot](screenshot1.png)
 
