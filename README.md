@@ -26,11 +26,11 @@ The project is split to 5 pages:
 
 ## Code Explaination
 All the javascript code is split in several Javascript files:
--Packages.js. The movie player interface  is designed in Package.js module.
--createColorLetters.js , createColorLetters2.js.  The modules with functions to create coloured letters sentence.
--displaySlides.js. The module to choose and display images, after button clicked.
--backpacker.js. The module to handle animation of bacpacker icon.
-Css  web page styles  designed to beautify views.
+- Packages.js. The movie player interface  is designed in Package.js module.  
+- createColorLetters.js , createColorLetters2.js.  The modules with functions to create coloured letters sentence.  
+- displaySlides.js. The module to choose and display images, after button clicked.  
+- backpacker.js. The module to handle animation of bacpacker icon.  
+- Css  web page styles  designed to beautify views.  
 
 ![Screenshot](screenshot3.png)
 
